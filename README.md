@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cristian Gadea</h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+<h3 align="center">A passionate Fullstack developer from Argentina</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisgadea" alt="crisgadea" /></a> </p>
 
-- 🔭 I’m currently working on **Telecom Account at Globant**
+- 🔭 I’m currently working on **Globant as a Semi Senior Advanced Developer**
 
 - 🌱 I’m currently learning **NodeJs, React, Express, WebFlux**
 
