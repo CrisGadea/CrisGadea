@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisgadea" alt="crisgadea" /></a> </p>
 
-- 🔭 I’m currently working on **Globant as a Semi Senior Advanced Developer**
+- 🔭 I’m currently working on **IBM as a Java Software Developer**
 
 - 🌱 I’m currently learning **NodeJs, React, Express, WebFlux**
 
