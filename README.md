@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cristian Gadea</h1>
-<h3 align="center">A passionate Fullstack developer from Argentina</h3>
+<h3 align="center">A passionate Fullstack Software Engineer from Argentina</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisgadea" alt="crisgadea" /></a> </p>
 
 - 🔭 I’m currently working on **NaranjaX as a Senior Software Engineer**
 
-- 🌱 I’m currently learning **NodeJs, React, Express, WebFlux**
+- 🌱 I’m currently learning **NodeJs, Express, WebFlux**
 
 - 👯 I’m looking to collaborate on **many open source projects**
 
