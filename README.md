@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisgadea" alt="crisgadea" /></a> </p>
 
-- 🔭 I’m currently working on **NaranjaX as a Senior Software Engineer**
+- 🔭 I’m currently working on **Accenture as a Senior Software Engineer**
+
+- 🔭 I'm Founder at Code & Mate
 
 - 🌱 I’m currently learning **NodeJs, Express, WebFlux**
 
