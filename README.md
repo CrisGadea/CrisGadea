@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Code & Mate as a CEO | Senior Software Developer**
 
-- 🌱 I’m currently learning **NodeJs, Express, Nest.Js**
+- 🌱 I’m currently learning **Astro, Tailwind, Nest.Js**
 
 - 👯 I’m looking to collaborate on **many open source projects**
 
