@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisgadea" alt="crisgadea" /></a> </p>
 
-- 🔭 I’m currently working on **Code & Mate as a CEO | Senior Software Developer**
+- 🔭 I’m currently working on **Accenture as a Senior Software Developer**
 
 - 🌱 I’m currently learning **Astro, Tailwind, Nest.Js**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **maintaing and develop web applications**
 
-- 💬 Ask me about **Java, PHP, Backend, Docker and Scalables Platforms**
+- 💬 Ask me about **Java, Spring Boot, Backend, SQL and Scalables Platforms**
 
 - 📫 How to reach me **cristianhernangadea@gmail.com**
 
