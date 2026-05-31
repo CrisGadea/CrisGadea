@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisgadea" alt="crisgadea" /></a> </p>
 
-- 🔭 I’m currently working on **Fiserv as a Software Architect**
+- 🔭 I’m currently working on **Huenei as a Java Technical Lead**
 
-- 🌱 I’m currently learning ** Go, Kafka, Leadership, IA**
+- 🌱 I’m currently learning ** Kafka, Leadership, IA**
 
 - 👯 I’m looking to collaborate on **many open source projects**
 
